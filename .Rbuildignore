@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.git*
+^Readme.md
+^R/fitSVM.R
+^R/shapeFiles_sp.R
+^R/sliderValues.R
+^start_ExcelMode.R
+^data/*
+^.travis.yml
+^TODO.txt
+^users.RData
+^app.R
+^users.db
+^CRAN-RELEASE$
+^cran-comments.md
